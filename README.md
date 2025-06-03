@@ -15,7 +15,7 @@
 </p>
 
 ## 🥳 What's New 
-- [2025/06/03] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
+- [2025/06/04] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
 ## 🎥 Demo
 <p align="center">
