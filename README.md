@@ -18,7 +18,7 @@
 ## Citation
 
 ```bibtex
-@article{yang2025omnisvg,
+@article{chen2025sparsevdit,
   title={Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers}, 
   author={Pengtao Chen and Xianfang Zeng and Maosen Zhao and Peng Ye and Mingzhu Shen and Wei Cheng and Gang Yu and Tao Chen},
   journal={arXiv preprint arxiv:},
