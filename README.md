@@ -25,7 +25,7 @@
 - [x] Technical Report
 
 
-// ## :hammer: Installation
+<!--  ## :hammer: Installation-->
 
 
 // ## 🎯 Quick Start
