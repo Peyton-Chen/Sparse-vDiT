@@ -4,7 +4,7 @@
 
 </div> -->
 
-<h3 align="center"><strong>Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers</strong></h3>
+<h2 align="center"><strong>Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers</strong></h2>
 
 <div align="center">
 <a href='https://arxiv.org/abs/2506.****'><img src='https://img.shields.io/badge/arXiv-2506.****-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
