@@ -12,17 +12,16 @@
 
 ## To Do List
 - [ ] Code and Pretrained Models Release 
-- [x] MMSVG-Icon and MMSVG-Illustration Dataset Release
-- [x] Project Page & Technical Report
+- [x] Technical Report
 
 
 ## Citation
 
 ```bibtex
 @article{yang2025omnisvg,
-  title={OmniSVG: A Unified Scalable Vector Graphics Generation Model}, 
-  author={Yiying Yang and Wei Cheng and Sijin Chen and Xianfang Zeng and Jiaxu Zhang and Liao Wang and Gang Yu and Xinjun Ma and Yu-Gang Jiang},
-  journal={arXiv preprint arxiv:2504.06263},
+  title={Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers}, 
+  author={Pengtao Chen and Xianfang Zeng and Maosen Zhao and Peng Ye and Mingzhu Shen and Wei Cheng and Gang Yu and Tao Chen},
+  journal={arXiv preprint arxiv:},
   year={2025}
 }
 ```
