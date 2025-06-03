@@ -24,10 +24,11 @@
 - [ ] Code and Config Release 
 - [x] Technical Report
 
-%## :hammer: Installation
+
+// ## :hammer: Installation
 
 
-%## 🎯 Quick Start
+// ## 🎯 Quick Start
 
 
 ## :notebook: Citation
