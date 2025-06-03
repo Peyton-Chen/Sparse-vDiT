@@ -10,6 +10,10 @@
 <a href='https://arxiv.org/abs/2506.****'><img src='https://img.shields.io/badge/arXiv-2506.****-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+<p align="center">
+    <img src="assets/main.pdf" alt="Demo GIF" width="720px" />
+</p>
+
 ## 🥳 What's New 
 - [2025/06/03] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
