@@ -11,7 +11,7 @@
 
 
 ## To Do List
-- [ ] Code and Pretrained Models Release 
+- [ ] Code and Config Release 
 - [x] Technical Report
 
 
