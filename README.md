@@ -18,6 +18,21 @@
 - [2025/06/04] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
 ## 🎥 Demo
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center;">
+    <img src="assets/video/pretrain_0.gif" alt="Image 1" style="max-width: 30%;">
+    <p>Caption 1</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/video/pretrain_0.gif" alt="Image 2" style="max-width: 30%;">
+    <p>Caption 2</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/video/pretrain_0.gif" alt="Image 3" style="max-width: 30%;">
+    <p>Caption 3</p>
+  </div>
+</div>
+
 <p align="center">
     <img src="assets/result.png" alt="Result" width="890px" />
 </p>
