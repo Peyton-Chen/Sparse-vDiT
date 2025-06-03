@@ -18,7 +18,9 @@
 - [2025/06/03] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
 ## 🎥 Demo
-
+<p align="center">
+    <img src="assets/result.png" alt="Result" width="890px" />
+</p>
 
 ## :pencil: To Do List
 - [ ] Code and Config Release 
