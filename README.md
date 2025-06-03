@@ -18,20 +18,22 @@
 - [2025/06/04] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
 ## 🎥 Demo
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px; margin: 20px 0;">
-  <div style="text-align: center; flex: 1;">
-    <img src="assets/video/pretrain_0.gif" alt="方法1" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 8px; font-size: 14px; color: #555;">方法1</p>
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="assets/video/pretrain_0.gif" alt="方法2" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 8px; font-size: 14px; color: #555;">方法2</p>
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="assets/video/pretrain_0.gif" alt="方法3" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 8px; font-size: 14px; color: #555;">方法3</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
+      <em>Dense Attention</em>
+    </td>
+    <td align="center">
+      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
+      <em><a href="https://github.com/svg-project/Sparse-VideoGen/tree/main?tab=readme-ov-file" target="_blank">Sparse Video Generation (SVG)</a></em>
+    </td>
+    <td align="center">
+      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
+      <em>Draft Attention (Ours)</em>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <img src="assets/result.png" alt="Result" width="890px" />
