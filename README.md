@@ -24,6 +24,9 @@
 - [ ] Code and Config Release 
 - [x] Technical Report
 
+## :hammer: Installation
+
+
 ## 🎯 Quick Start
 
 
