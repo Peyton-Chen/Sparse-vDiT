@@ -7,15 +7,14 @@
 <h3 align="center"><strong>Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers</strong></h3>
 
 
-## 🔥🔥🔥 News !!
+## 🥳 What's New 
 
 
 ## To Do List
 - [ ] Code and Config Release 
 - [x] Technical Report
 
-
-## Citation
+## :notebook: Citation
 
 ```bibtex
 @article{chen2025sparsevdit,
