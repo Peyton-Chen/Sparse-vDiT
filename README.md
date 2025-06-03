@@ -27,4 +27,4 @@
 ```
 
 ## Acknowledgments
-We thank the following excellent open-source works:
+We thank the following excellent open-source works: [Sparse-VideoGen](https://github.com/svg-project/Sparse-VideoGen), [MInference](https://github.com/microsoft/MInference), [PAB](https://github.com/NUS-HPC-AI-Lab/VideoSys), [CogVideoX](https://github.com/THUDM/CogVideo), [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo), [Wan2.1](https://github.com/Wan-Video/Wan2.1)
