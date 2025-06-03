@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    <img src="assets/pipeline.png" alt="Pipeline" width="960px" />
+    <img src="assets/pipeline.png" alt="Pipeline" width="890px" />
 </p>
 
 ## 🥳 What's New 
