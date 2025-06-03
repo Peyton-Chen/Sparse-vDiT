@@ -11,7 +11,7 @@
 </div>
 
 ## 🥳 What's New 
-
+- [2025/06/03] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
 
 ## 🎥 Demo
 
