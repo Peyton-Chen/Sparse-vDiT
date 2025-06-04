@@ -100,10 +100,10 @@
 
 ```bibtex
 @article{chen2025sparsevdit,
-  title={Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers}, 
-  author={Pengtao Chen and Xianfang Zeng and Maosen Zhao and Peng Ye and Mingzhu Shen and Wei Cheng and Gang Yu and Tao Chen},
-  journal={arXiv preprint arxiv:},
-  year={2025}
+      title={Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers}, 
+      author={Pengtao Chen and Xianfang Zeng and Maosen Zhao and Peng Ye and Mingzhu Shen and Wei Cheng and Gang Yu and Tao Chen},
+      journal={https://arxiv.org/abs/2506.03065}, 
+      year={2025}
 }
 ```
 
