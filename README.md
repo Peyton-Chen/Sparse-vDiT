@@ -7,7 +7,7 @@
 <h2 align="center"><strong>Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers</strong></h2>
 
 <div align="center">
-<a href='https://arxiv.org/abs/2506.****'><img src='https://img.shields.io/badge/arXiv-2506.****-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://arxiv.org/abs/2506.03065'><img src='https://img.shields.io/badge/arXiv-2506.03065-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 ## 🥳 What's New 
-- [2025/06/04] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/****)
+- [2025/06/04] 👋 Upload paper and init project. [Read](https://arxiv.org/abs/2506.03065)
 
 ## 🎥 Demo
 <table>
@@ -35,6 +35,48 @@
     <td align="center">
       <em>Sparse-vDiT (Ours)</em>
       <img src="assets/video/sparsevdit_0.gif" width="100%"/><br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <em>Pretrain Model</em>
+      <img src="assets/video/pretrain_1.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>MInference</em>
+      <img src="assets/video/minference_1.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>Sparse-VideoGen</em>
+      <img src="assets/video/svg_1.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>Sparse-vDiT (Ours)</em>
+      <img src="assets/video/sparsevdit_1.gif" width="100%"/><br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <em>Pretrain Model</em>
+      <img src="assets/video/pretrain_2.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>MInference</em>
+      <img src="assets/video/minference_2.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>Sparse-VideoGen</em>
+      <img src="assets/video/svg_2.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>Sparse-vDiT (Ours)</em>
+      <img src="assets/video/sparsevdit_2.gif" width="100%"/><br>
     </td>
   </tr>
 </table>
