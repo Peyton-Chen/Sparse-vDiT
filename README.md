@@ -21,16 +21,20 @@
 <table>
   <tr>
     <td align="center">
+      <em>Pretrain Model</em>
       <img src="assets/video/pretrain_0.gif" width="100%"/><br>
-      <em>Dense Attention</em>
     </td>
     <td align="center">
-      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
-      <em><a href="https://github.com/svg-project/Sparse-VideoGen/tree/main?tab=readme-ov-file" target="_blank">Sparse Video Generation (SVG)</a></em>
+      <em>MInference</em>
+      <img src="assets/video/minference_0.gif" width="100%"/><br>
     </td>
     <td align="center">
-      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
-      <em>Draft Attention (Ours)</em>
+      <em>Sparse-VideoGen</em>
+      <img src="assets/video/svg_0.gif" width="100%"/><br>
+    </td>
+    <td align="center">
+      <em>Sparse-vDiT (Ours)</em>
+      <img src="assets/video/sparsevdit_0.gif" width="100%"/><br>
     </td>
   </tr>
 </table>
