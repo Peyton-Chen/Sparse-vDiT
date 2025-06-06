@@ -28,7 +28,7 @@
       <img src="assets/video/svg_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85× faster)</em>
+      <em>Sparse-vDiT (1.85×)</em>
       <img src="assets/video/sparsevdit_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
@@ -49,7 +49,7 @@
       <img src="assets/video/svg_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85× faster)</em>
+      <em>Sparse-vDiT (1.85×)</em>
       <img src="assets/video/sparsevdit_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
@@ -70,7 +70,7 @@
       <img src="assets/video/svg_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85× faster)</em>
+      <em>Sparse-vDiT (1.85×)</em>
       <img src="assets/video/sparsevdit_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
