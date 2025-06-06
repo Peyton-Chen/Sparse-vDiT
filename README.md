@@ -17,19 +17,19 @@
   <tr>
     <td align="center">
       <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_0.gif" width="100%"/><br>
+      <img src="assets/video/pretrain_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>MInference</em>
-      <img src="assets/video/minference_0.gif" width="100%"/><br>
+      <img src="assets/video/minference_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_0.gif" width="100%"/><br>
+      <img src="assets/video/svg_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (Ours)</em>
-      <img src="assets/video/sparsevdit_0.gif" width="100%"/><br>
+      <em>Sparse-vDiT (1.85× faster)</em>
+      <img src="assets/video/sparsevdit_0.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
 </table>
@@ -38,19 +38,19 @@
   <tr>
     <td align="center">
       <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_1.gif" width="100%"/><br>
+      <img src="assets/video/pretrain_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>MInference</em>
-      <img src="assets/video/minference_1.gif" width="100%"/><br>
+      <img src="assets/video/minference_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_1.gif" width="100%"/><br>
+      <img src="assets/video/svg_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (Ours)</em>
-      <img src="assets/video/sparsevdit_1.gif" width="100%"/><br>
+      <em>Sparse-vDiT (1.85× faster)</em>
+      <img src="assets/video/sparsevdit_1.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
 </table>
@@ -59,19 +59,19 @@
   <tr>
     <td align="center">
       <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_2.gif" width="100%"/><br>
+      <img src="assets/video/pretrain_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>MInference</em>
-      <img src="assets/video/minference_2.gif" width="100%"/><br>
+      <img src="assets/video/minference_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
       <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_2.gif" width="100%"/><br>
+      <img src="assets/video/svg_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (Ours)</em>
-      <img src="assets/video/sparsevdit_2.gif" width="100%"/><br>
+      <em>Sparse-vDiT (1.85× faster)</em>
+      <img src="assets/video/sparsevdit_2.gif" style="height:200px; object-fit:cover;"/><br>
     </td>
   </tr>
 </table>
