@@ -34,7 +34,7 @@
       </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em><br>
+      <em>Sparse-vDiT (1.76×)</em><br>
       <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
         <img src="assets/video/sparsevdit_0.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
       </div>
@@ -63,7 +63,7 @@
       </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em><br>
+      <em>Sparse-vDiT (1.76×)</em><br>
       <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
         <img src="assets/video/sparsevdit_1.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
       </div>
@@ -92,7 +92,7 @@
       </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em><br>
+      <em>Sparse-vDiT (1.76×)</em><br>
       <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
         <img src="assets/video/sparsevdit_2.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
       </div>
