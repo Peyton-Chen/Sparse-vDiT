@@ -16,20 +16,28 @@
 <table>
   <tr>
     <td align="center">
-      <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_0.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Pretrain Model</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/pretrain_0.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>MInference</em>
-      <img src="assets/video/minference_0.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>MInference</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/minference_0.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_0.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-VideoGen</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/svg_0.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em>
-      <img src="assets/video/sparsevdit_0.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-vDiT (1.85×)</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/sparsevdit_0.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
   </tr>
 </table>
@@ -37,20 +45,28 @@
 <table>
   <tr>
     <td align="center">
-      <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_1.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Pretrain Model</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/pretrain_1.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>MInference</em>
-      <img src="assets/video/minference_1.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>MInference</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/minference_1.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_1.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-VideoGen</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/svg_1.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em>
-      <img src="assets/video/sparsevdit_1.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-vDiT (1.85×)</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/sparsevdit_1.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
   </tr>
 </table>
@@ -58,23 +74,32 @@
 <table>
   <tr>
     <td align="center">
-      <em>Pretrain Model</em>
-      <img src="assets/video/pretrain_2.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Pretrain Model</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/pretrain_2.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>MInference</em>
-      <img src="assets/video/minference_2.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>MInference</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/minference_2.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-VideoGen</em>
-      <img src="assets/video/svg_2.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-VideoGen</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/svg_2.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
     <td align="center">
-      <em>Sparse-vDiT (1.85×)</em>
-      <img src="assets/video/sparsevdit_2.gif" style="height:200px; object-fit:cover;"/><br>
+      <em>Sparse-vDiT (1.85×)</em><br>
+      <div style="width:180px; height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+        <img src="assets/video/sparsevdit_2.gif" style="min-width:100%; min-height:100%; object-fit:cover;">
+      </div>
     </td>
   </tr>
 </table>
+
 
 ## :pencil: To Do List
 - [ ] Code and Checkpoints Release 
